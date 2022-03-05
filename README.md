@@ -1,4 +1,4 @@
-### Hi 👋,I'm Nazlı
+### Hi 👋,I'm Aybüke
 
 <!--
 **muhendishanim06/muhendishanim06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
