@@ -10,6 +10,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    
-- 👋 Hi 👋,I'm Aybüke
+- Hi 👋,I'm Aybüke
 - 💼 I'm a student at Fırat University
 - 💬 Talk to me about freelancing opportunities in data science and software engineering
