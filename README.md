@@ -1,11 +1,9 @@
-
-**muhendishanim06/muhendishanim06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1> Hello Fellow < Developers/ >! 
 <p align='center'>
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Software+engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/yazilimmuhendisi/" target="_blank">
