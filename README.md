@@ -14,11 +14,10 @@
 - 💻 Software Engineer
 - 💼 I'm a student at Fırat University & Netkent Akdeniz Research and Science University
 - 🔄 Routine : Eat - Sleep - Code - Repeat
-- 😆 Fun fact: I CODE
-- 💡 I'm interested in : Big Data, Machine Learning and Data Science, .Net ,HTML ,CSS, JS,PYTHON ,C# 
+- 💡 I'm interested in : Big Data, Machine Learning , Data Science, .Net ,HTML ,CSS, JS,PYTHON ,C# 
 - ❤️ Food & Code
-- 💬 Grab coffee and let's talk about technology and livestyle
-- 📝 Favourite Quote : Either I could watch it happen or be a part of it!
+- 💬 Grab coffee and let's talk about technology and livestyle.
+- 📝 Favourite Quote : I alone cannot change the world, but I can cast a stone across the water to create many ripples
 - 📫 Reach me at aybuke7837@hotmail.com
   
 
