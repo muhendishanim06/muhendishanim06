@@ -11,13 +11,19 @@
   </a>   
    
 - Hi 👋,I'm Aybüke
+- 💻 Software Engineer
 - 💼 I'm a student at Fırat University & Netkent Akdeniz Research and Science University
-- 💬 Talk to me about Software Engineering
-- 📫 aybuke7837@hotmail.com
+- 🔄 Routine : Eat - Sleep - Code - Repeat
+- ❤️ Code
+- 💬 Grab coffee and let's talk about technology and livestyle
+- 📝 Favourite Quote : Either I could watch it happen or be a part of it!
+- 📫 Reach me at aybuke7837@hotmail.com
   
 
-     
-     
+
+
+   
+   
 
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
