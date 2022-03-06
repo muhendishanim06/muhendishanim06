@@ -14,7 +14,7 @@
 - 💡 I'm interested in : Big Data, Machine Learning , Data Science, .Net ,HTML ,CSS, JS,PYTHON ,C# 
 - ❤️ Food & Code
 - 💬 Grab coffee and let's talk about technology and livestyle.
-- 📝 Favourite Quote : I alone cannot change the world, but I can cast a stone across the water to create many ripples
+- 📝 Favourite Quote : I alone cannot change the world, but I can cast a stone across the water to create many ripples.
 - 📫 Reach me at aybuke7837@hotmail.com  &  <a href="https://www.linkedin.com/in/yazilimmuhendisi/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
