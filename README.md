@@ -8,7 +8,7 @@
 
    
 - Hi 👋,I'm Aybüke
-- 💻 Software Engineer
+- 💻 Jr.Software Engineer
 - 💼 I'm a student at Fırat University & Netkent Akdeniz Research and Science University
 - 🔄 Routine : Eat - Sleep - Code - Repeat
 - 💡 I'm interested in : Big Data, Machine Learning , Data Science, .Net ,HTML ,CSS, JS,PYTHON ,C# 
