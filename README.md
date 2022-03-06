@@ -14,7 +14,8 @@
 - 💻 Software Engineer
 - 💼 I'm a student at Fırat University & Netkent Akdeniz Research and Science University
 - 🔄 Routine : Eat - Sleep - Code - Repeat
-- ❤️ Code
+- 😆 Fun fact: I CODE
+- ❤️ Food & Code
 - 💬 Grab coffee and let's talk about technology and livestyle
 - 📝 Favourite Quote : Either I could watch it happen or be a part of it!
 - 📫 Reach me at aybuke7837@hotmail.com
