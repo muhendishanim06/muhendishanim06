@@ -11,9 +11,9 @@
   </a>   
    
 - Hi 👋,I'm Aybüke
-- 💼 I'm a student at Fırat University
-- 💬 Talk to me about software engineering
-  
+- 💼 I'm a student at Fırat University & Netkent Akdeniz Research and Science University
+- 💬 Talk to me about Software Engineering
+- 📫 aybuke7837@hotmail.com
   
 
      
